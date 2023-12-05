@@ -2,8 +2,6 @@ import React, { useState } from 'react'
 import "./style.css"
 import Menu from './menuApi.js'
 import MenuCard from './MenuCard.js'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faEnvelope, fabars } from '@fortawesome/free-solid-svg-icons';
 
 const Resturant = () => {
 
